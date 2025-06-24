@@ -2,6 +2,7 @@
 
 /**
  * jack_bauer - Prints every minute of the day
+ *
  * Return: Nothing
  */
 
