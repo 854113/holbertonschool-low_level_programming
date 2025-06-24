@@ -2,7 +2,6 @@
 
 /**
  * _abs - jehdue
- *
  * @n: numero
  *
  * Return: valor absoluto
