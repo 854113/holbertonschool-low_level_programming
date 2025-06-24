@@ -2,7 +2,6 @@
 
 /**
  * _isalpha - function is used to check lowercase letter
- *
  * @c: character check
  *
  * Return: c is 1 and letters is 0
