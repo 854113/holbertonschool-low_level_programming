@@ -2,7 +2,6 @@
 
 /**
  * print_sign - imprime si es un simbolo o un numero
- *
  * @n: int
  *
  * Return: devuelve 0 o 1
