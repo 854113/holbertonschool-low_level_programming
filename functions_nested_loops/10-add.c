@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * add - a�ade dos integrales y retorna el resultado
  * @number1: primer numero
