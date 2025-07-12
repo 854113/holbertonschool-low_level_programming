@@ -5,7 +5,7 @@
  *
  * @dest: A pointer
  * @src: The source buffer
- * @n: The number of bytes 
+ * @n: The number of bytes
  *
  * Return: A pointer to the destination buffer @dest.
  */
